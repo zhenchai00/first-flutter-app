@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-Where I, myself learn a new language and framework
+Where I, myself learn a new language and framework. 
+
+# Application Overview
+![overview1](./resources/flutter-app.png)
+![overview2](./resources/flutter-app-1.png)
 
 ## Getting Started
 
